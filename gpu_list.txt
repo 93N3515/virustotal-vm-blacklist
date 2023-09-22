@@ -13,7 +13,6 @@
 8Y3BSXKG
 9SF72FG7
 9Z77DN4T
-AMD Radeon HD 8650G
 ASPEED Graphics Family(WDDM)
 BDMD4C14
 CSUZOOXW
@@ -27,7 +26,6 @@ H1_SDVLF
 HKWURZU9
 HP8WD3MX
 H_EDEUEK
-Intel(R) HD Graphics 4600
 K9SC88UK
 KBBFOHZN
 KOD68ZH1
@@ -41,9 +39,6 @@ Microsoft Remote Display Adapter
 MKVW6M6X
 MTSUP2DX
 MYNP2R7E
-NVIDIA GeForce 840M
-NVIDIA GeForce 9400M
-NVIDIA GeForce 9500 GT (Microsoft Corporation - WDDM v1.1)
 O597EOTS
 OEFUG1_W
 OOUT3ENP
@@ -51,8 +46,6 @@ OYVM_U6G
 P9T_AU3X
 PC1ESCG3
 R69XK_H3
-Radeon (TM) RX 580 Graphics
-Standard VGA Graphics Adapter
 UKBEHH_S
 Virtual Desktop Monitor
 VirtualBox Graphics Adapter
@@ -72,7 +65,6 @@ ZP62XCAP
 _G31E46N
 _PHLNYGR
 _T9W5LHO
-Стандартный VGA графический адаптер
 
 6F44ADR7
 VM64TTFX
